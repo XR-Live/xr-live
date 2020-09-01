@@ -1,6 +1,4 @@
-# NCE Lives
-
-XRLive.earth
+# XRLive.earth
 
 Main Site: https://xr-live.github.io/xr-live/
 
